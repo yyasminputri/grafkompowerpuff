@@ -42,11 +42,10 @@ Dalam home page game, terdapat 3 tombol, yaitu characters, rules, dan play. Tomb
 ## Unlock Your Characters
 Page ini digunakan untuk menampilkan model 3D character - character animal yang ada di game. Character - character ini nantinya akan dikumpulkan user/player  Terdapat tombol next untuk melihat character selanjutnya, tombol previous untuk melihat character sebelumnya, dan tombol play untuk langsung main game. 3D character model yang ada diantaranya adalah :
 
-1. 
-2.
-3.
-4.
-5.
+1. Cow
+2. Rabbit
+3. Chicken
+4. Pig
 
 ## Rules
 Page rules digunakan untuk menampilkanm aturan main game. Rules game ini adalah :
